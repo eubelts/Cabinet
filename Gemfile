@@ -15,6 +15,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise', '~> 4.4', '>= 4.4.3'
 gem 'haml'
 gem 'simple_form', '~> 4.0', '>= 4.0.1'
+gem 'awesome_print', '~> 1.8'
 # gem 'bcrypt', '~> 3.1.7'
 # gem 'capistrano-rails', group: :development
 
