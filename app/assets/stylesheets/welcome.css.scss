@@ -2,7 +2,7 @@
 
 #banner {
 	width: 100%;
-	min-height: 450px;
+	min-height: 580px;
 	display: table;
 	.banner_content {
 		display: table-cell;
@@ -39,7 +39,7 @@
 }
 
 #callouts {
-	background-image: url(image_path("callout_backgroung.jpg"));
+	background-image: url(image_path("callout_background.jpg"));
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top center;
